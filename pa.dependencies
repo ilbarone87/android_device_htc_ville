@@ -97,8 +97,8 @@
     },    
     {
         "remote":      "github",
-        "repository":  "AOSPA-legacy/android_device_htc_s4-common",
-        "target_path": "device/htc/s4-common",
+        "repository":  "AOSPA-legacy/android_device_htc_s4-msm8960-common",
+        "target_path": "device/htc/msm8960-common",
         "revision":    "kitkat"
     },
     {
